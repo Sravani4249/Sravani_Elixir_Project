@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43588" started-at="2018-06-23T16:00:30Z" finished-at="2018-06-23T16:01:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43588" started-at="2018-06-23T16:00:30Z" finished-at="2018-06-23T16:01:14Z">
+      <class name="Elixir.Modules.Elixir_Test">
+        <test-method status="PASS" signature="browser()[pri:0, instance:Elixir.Modules.Elixir_Test@ae45eb6]" name="browser" is-config="true" duration-ms="6735" started-at="2018-06-23T16:00:30Z" finished-at="2018-06-23T16:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Elixir.Modules.Elixir_Test@ae45eb6]" name="login" duration-ms="10337" started-at="2018-06-23T16:00:37Z" finished-at="2018-06-23T16:00:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="phar_mgmt()[pri:0, instance:Elixir.Modules.Elixir_Test@ae45eb6]" name="phar_mgmt" duration-ms="25837" started-at="2018-06-23T16:00:47Z" finished-at="2018-06-23T16:01:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phar_mgmt -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:Elixir.Modules.Elixir_Test@ae45eb6]" name="logout" is-config="true" duration-ms="651" started-at="2018-06-23T16:01:13Z" finished-at="2018-06-23T16:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- Elixir.Modules.Elixir_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
